@@ -1,0 +1,14 @@
+{
+  "name": "hmvc-cfs",
+  "description": "A HMVC cascading file system.",
+  "version": "0.0.1",
+  "repository": {},
+  "author": "Mikito Takada <firstname.surname@gmail.com> (http://blog.mixu.net)",
+  "main": "index.js",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": "*"
+  }
+}
